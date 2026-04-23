@@ -1,8 +1,14 @@
+using BookReviewApi.Models;
+
+namespace BookReviewApi.Services.Interfaces;
+
 public interface IBookService
 {
-    List<Book> GetAllBooks();
-    Book GetBookById(int id);
-    Book CreateBook(Book book);
-    bool DeleteBook(int id);
-    void AddGenreToBook(int bookId, int genreId);
+    Task<List<Book>> GetAllBooksAsync();
+
+    Task<Book?> GetBookByIdAsync(int id);
+
+    Task<Book> CreateBookAsync(Book book);
+
+    Task<bool> DeleteBookAsync(int id);
 }
