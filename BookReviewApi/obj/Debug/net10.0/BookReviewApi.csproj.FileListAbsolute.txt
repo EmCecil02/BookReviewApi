@@ -160,3 +160,5 @@ C:\Users\eacec\Documents\BookReviewApi\BookReviewApi\obj\Debug\net10.0\refint\Bo
 C:\Users\eacec\Documents\BookReviewApi\BookReviewApi\obj\Debug\net10.0\BookReviewApi.pdb
 C:\Users\eacec\Documents\BookReviewApi\BookReviewApi\obj\Debug\net10.0\BookReviewApi.genruntimeconfig.cache
 C:\Users\eacec\Documents\BookReviewApi\BookReviewApi\obj\Debug\net10.0\ref\BookReviewApi.dll
+C:\Users\eacec\Documents\BookReviewApi\BookReviewApi\bin\Debug\net10.0\BookReviewApi.staticwebassets.runtime.json
+C:\Users\eacec\Documents\BookReviewApi\BookReviewApi\obj\Debug\net10.0\compressed\52yrzpwf30-{0}-s2lc5pza9n-s2lc5pza9n.gz
